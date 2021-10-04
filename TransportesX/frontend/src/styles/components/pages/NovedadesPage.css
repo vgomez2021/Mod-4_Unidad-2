@@ -1,0 +1,9 @@
+.novedades{
+           color: black;
+          }
+.novedades .h3, .novedades .h4
+                              {
+                               font-weight: bold;
+                               font-style: italic;
+                               font-size: 1.3em;
+                              }
